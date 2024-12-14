@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/391f19f9-0978-47f1-b392-6d8f2077607e)## Hi there 👋
+## Hi there 👋
 
 <!--
 **Nathanyang233/Nathanyang233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[My Mini Games Page](https://nathanyang233.github.io/Nathanyang233/My%20Mini%20Games/)
+Welcome to visit [My Mini Games Page](https://nathanyang233.github.io/Nathanyang233/My%20Mini%20Games/)
